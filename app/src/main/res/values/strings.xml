@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Student Management</string>
+    <string name="student_list">Student List</string>
+    <string name="student_detail">Student Details</string>
+    <string name="add_student">Add Student</string>
+    <string name="edit_student">Edit Student</string>
+    <string name="full_name">Full Name</string>
+    <string name="student_id">Student ID</string>
+    <string name="email">Email</string>
+    <string name="avatar_url">Avatar URL or Image URI</string>
+    <string name="pick_image">Pick Image</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="back">Back</string>
+    <string name="confirm_delete">Do you want to delete this student info?</string>
+    <string name="confirm_edit">Do you want to edit this student info?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="empty_list">No students found. Tap + to add one.</string>
+    <string name="error_empty_fields">Please fill in all required fields.</string>
+</resources>
